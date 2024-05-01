@@ -1,4 +1,4 @@
-package com.hikarisanapp.numbertoletterinfrench;
+package com.iamsaintcyr.numbertoletterinfrench;
 
 public class Main {
     public static void main(String[] args) {

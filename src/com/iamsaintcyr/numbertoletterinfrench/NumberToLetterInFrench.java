@@ -1,4 +1,4 @@
-package com.hikarisanapp.numbertoletterinfrench;
+package com.iamsaintcyr.numbertoletterinfrench;
 
 import java.util.HashMap;
 import java.util.Map;
